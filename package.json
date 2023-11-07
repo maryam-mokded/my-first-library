@@ -10,7 +10,7 @@
     "preview": "vite preview"
   },
   "exports": {
-    ".": "./dist/index.ts"
+    ".": "./dist/my-first-library.js"
   },
   "dependencies": {
     "vue": "^3.3.4"

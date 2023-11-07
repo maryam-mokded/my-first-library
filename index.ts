@@ -1,3 +1,1 @@
-export interface Components {
-    Steppers: typeof import('./src/components/Steppers.vue')['default']
-}
+export { default as Stepper } from './src/components/Steppers.vue';
